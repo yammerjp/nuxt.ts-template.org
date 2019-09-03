@@ -5,7 +5,8 @@ module.exports = {
     },
     "extends": [
         "plugin:vue/essential",
-        "airbnb-base"
+        "airbnb-base",
+        "@nuxtjs/eslint-config-typescript"
     ],
     "globals": {
         "Atomics": "readonly",
