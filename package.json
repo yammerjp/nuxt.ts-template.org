@@ -1,0 +1,30 @@
+{
+  "name": "nuxt.ts-blog",
+  "version": "1.0.0",
+  "description": "A blog system using Nuxt.js with TypeScript",
+  "author": "Keisuke Nakayama",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate",
+    "lint": "eslint --ext .ts,.js,.vue --ignore-path .gitignore .",
+    "lint:fix": "eslint --fix --ext .ts,.js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxt/types": "^0.2.6",
+    "@nuxt/typescript-runtime": "^0.1.5",
+    "@typescript-eslint/eslint-plugin": "^2.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3",
+    "nuxt": "^2.9.2",
+    "vue-property-decorator": "^8.2.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.2.1",
+    "@typescript-eslint/parser": "^2.1.0"
+  }
+}
