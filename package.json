@@ -1,7 +1,7 @@
 {
-  "name": "nuxt.ts-blog",
+  "name": "nuxt.ts-template",
   "version": "1.0.0",
-  "description": "A blog system using Nuxt.js with TypeScript",
+  "description": "Application template using Nuxt.js with TypeScript",
   "author": "Keisuke Nakayama",
   "private": true,
   "scripts": {
