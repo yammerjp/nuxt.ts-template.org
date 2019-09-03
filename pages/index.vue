@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt.ts-blog
+        nuxt.ts-template
       </h1>
       <h2 class="subtitle">
-        A blog system using Nuxt.js with TypeScript
+        Application template using Nuxt.js with TypeScript
       </h2>
       <div class="links">
         <a
